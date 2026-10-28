@@ -1,3 +1,3 @@
-# loadrepo1
+# Lab
 
-This is to load the repo for the second in class activity
+A simple CSS program
